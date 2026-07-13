@@ -1,0 +1,5 @@
+pandas
+biopython
+matplotlib
+rapidfuzz
+scikit-bio
